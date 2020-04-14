@@ -1,4 +1,4 @@
-# This is on of my first python projects
+# This is one of my first python projects
 
 ## Description
 This code is made to read from serial port, you proceed with mouse click.
